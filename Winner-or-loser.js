@@ -28,3 +28,6 @@ function Fighter(name, health, damagePerAttack) {
         this.toString = function() { return this.name; }
 }
 */
+
+
+// Solution
